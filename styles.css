@@ -1,0 +1,117 @@
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8.2%;
+}
+#search {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.3%;
+    width: 577px;
+    height: 40px;
+    border-radius: 25px;
+    border: 2px solid rgb(223,225,229);
+}
+.buttons {
+        margin-top: 30px;
+        height: 35px;
+        margin-left: 10px;
+        background-color: rgb(242,242,242);
+        border: none;
+        border-radius: 5px;
+        font-size: 14px;
+        font-family: "Roboto Medium", "Arial";
+        opacity: .9;
+        padding-left: 20px;
+        padding-right: 20px;
+}
+#search-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    list-style-type: none;
+    color:inherit;
+    font-family: "Product Sans","Arial";
+    font-size: 13px;
+}
+li {
+    display: inline;
+    padding: 5px;
+    font-family: "Product Sans","Arial";
+}
+li:hover {
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    color: gray;
+}
+.left-side {
+    position: absolute;
+    top:0px;
+    margin: 18px;
+    padding: 0px;
+}
+.right-side {
+    position: absolute;
+    top: 0px;
+    right: 130px;
+}   
+#apps {
+    position: absolute;
+    top: 7px;
+    right: 100px;
+    height: 25px;
+    width: 25px;
+    color: gray;
+}   
+#signin {
+    position: absolute;
+    top: -25px;
+    right: 30px;
+    margin-top: 30px;
+    height: 35px;
+    margin-left: 10px;
+    background-color: rgb(66, 126, 245);
+    color:white;
+    font-size: 12px;
+    font-family: "Roboto", "Arial";
+    font-weight: bold;
+    opacity: .9;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+}
+.rectangle {
+    position: absolute;
+    height: 35px;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    background-color: rgb(240,240,240);
+    border-color: black;
+    border: 1px solid rgb(214,214,214);
+}
+.left-side-bottom {
+    position: absolute;
+    bottom: -2px;
+    left: -20px;
+    font-size: 14px;
+}
+.right-side-bottom {
+    position: absolute;
+    bottom: -2px;
+    right: 17px;
+    font-size: 14px;
+}
+input {
+    padding-left:50px; 
+    background: url(https://cdn0.iconfinder.com/data/icons/material-style/48/search-512.png) top left     no-repeat;
+    background-size: 30px;
+    background-position-y: 5px;
+    background-position-x: 10px;
+}
