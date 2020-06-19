@@ -1,5 +1,5 @@
 # web-design-projects
-Using HTML,CSS, and Javascript I create personal projects to display my knowledge within these fields.
+Using HTML and CSS I create personal projects to display my knowledge within these fields.
 _____________________________________________________________________________________________________________________________
 Google Homepage
   - Used HTML such as Titles, headings, images, classes, footers, lists,IDs, and names to structure the google homepage.
